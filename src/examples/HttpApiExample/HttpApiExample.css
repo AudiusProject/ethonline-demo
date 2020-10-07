@@ -1,0 +1,13 @@
+.artwork img {
+  overflow: hidden;
+  border-radius: 5px;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.artist {
+  font-size: 20px;
+}

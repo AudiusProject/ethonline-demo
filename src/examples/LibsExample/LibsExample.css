@@ -1,0 +1,34 @@
+.signIn {
+  margin: 0 auto;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+}
+
+.signIn > * {
+  margin-bottom: 8px;
+}
+
+.label {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+input {
+  padding: 8px;
+  border: 1px solid var(--primary);
+  border-radius: 5px;
+}
+
+.name {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.handle {
+  font-size: 20px;
+}
+
+.user > * {
+  margin-bottom: 8px;
+}
