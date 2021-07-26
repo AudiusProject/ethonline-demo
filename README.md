@@ -48,7 +48,7 @@ Discord bot: https://github.com/kanbaru/audius-music
 
 Stems is our audio-forward React component library under development.
 
-As it stands, there are only a few components (Buttons, Modals), but it includes our fonts & color palettes.
+As it stands, there are only a few components (Buttons, Modals, Poups), but it includes our fonts & color palettes if you'd like to hack in style 😎.
 
 https://github.com/AudiusProject/stems
 
