@@ -11,7 +11,7 @@ To run this project, clone this repo & run
 **Audius HTTP API**
 (read-only)
 
-This is our public read-only API. You can get & stream content from users, tracks, and playlists. You'll have access to 100K tracks & the ability to consume MP3's directly.
+This is our public read-only API. You can get & stream content from users, tracks, and playlists. You'll have access to 500K tracks & the ability to consume MP3's directly.
 
 https://audiusproject.github.io/api-docs/index.html#audius-api-docs
 

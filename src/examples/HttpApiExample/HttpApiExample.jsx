@@ -17,7 +17,7 @@ const HttpApiExample = () => {
   useEffect(() => {
     const fetchTrack = async () => {
       const host = await selectHost()
-      const res = await fetch(`${host}/v1/tracks/trending?limit=1&timeRange=week`)
+      const res = await fetch(`${host}/v1/tracks/trending?limit=1&timeRange=week?app_name=EXAMPLEAPP`)
       const json = await res.json()
       const topTrack = json.data[0]
       setTrack(topTrack)
